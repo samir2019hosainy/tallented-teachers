@@ -1,7 +1,7 @@
 .mobile-menu {
   width: 100px;
   height: 100px;
-  background-color: purple;
+  background-color: red;
   padding: 20px;
 
   @media (min-width: 992px) {
@@ -12,7 +12,7 @@
 .desktop-menu {
   justify-content: space-between;
   color: navy;
-  background-color: blue;
+  background-color:red;
   display: none;
 
   @media (min-width: 992px) {
